@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 3px;
+    box-sizing: border-box;
+    font-family:playball;
+    font-size: 110%;
+    border-color: black;
+}
+.topbar{
+    margin: 90px;
+    padding: 4px;
+    height: 50%;
+    width: 55%;
+    align-items: flex;
+    padding-bottom: 40px;
+    background-color: limegreen;
+}
+i{
+    margin:45px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+    border-radius: 75%;
+    padding: 25px;
+    display:flex;
+    background-color:ghostwhite;
+    box-shadow: 4px 4px 20px black;
+}
